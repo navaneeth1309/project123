@@ -1,0 +1,138 @@
+header{
+    display:flex;
+    background-color: gold;
+    height: 150px;
+}
+h1{
+    margin-left: 40px;
+    font-size: 50px;
+    font-family:'L/home/placenent/Desktop/pandu.html/WhatsApp Video 2024-03-05 at 13.51.31.mp4ucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(78, 78, 234);
+
+}
+.navbar{
+    display:flex;
+    text-align: center;
+    align-items: center;
+    margin-left: 400px;
+    padding: 50px;
+}
+.a{
+    padding: 10px;
+    background-color:rgba(246, 245, 238, 0.762);
+    color:rgba(6, 6, 6, 0.807);
+    border-radius: 20px;
+}
+body{
+    background-image: url(3.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#Home{
+    display:flex;
+    
+
+}
+
+#Matter{
+    text-align: center;
+    align-items: center;
+    margin-top: 150px;
+    font-size: 30px;
+    color: aqua;
+}
+#Menu{
+    display: flex;
+}
+
+#grid{
+    display: flex;
+}
+
+h3{
+    text-align: center;
+    color: rgb(6, 193, 240);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+
+
+.para1{
+    padding: 5px;
+    font-size: 40px;
+    color: rgb(246, 144, 10);
+
+}
+.grid1{
+    display:grid;
+    grid-template-columns: auto auto auto;
+    margin-left: 40px;
+    
+}
+#vdo{
+    overflow: auto auto;
+    white-space: nowrap;
+}
+#vdo .slide{
+    display: inline-block;
+}
+
+form{
+    padding: 20px;
+    text-align: center;
+    background-color: red;
+    border-radius: 10%;
+    margin-left: 200px;
+    
+}
+#Contact{
+    padding: 10px;
+   margin-left: 400px;
+    
+    
+}
+label{
+    color: aqua;
+}
+.btn input{
+    background-color: rgb(20, 31, 27);
+}
+.btn input:hover{
+    background-color: rgb(232, 130, 21);
+}
+.cr{
+    display: flex;
+    margin-left: 100px;
+    
+}
+.last a{
+    color:sandybrown;
+    padding: 50px;
+    font-size: 25px;
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.last{
+    margin-left: 120px;
+}
+footer{
+    padding: 30px;
+    background-color: black;
+    margin-top: 30px;
+}
+h2{
+    display: flex;
+    text-align: center;
+    margin-left: 700px;
+    font-size: 70px;
+    color: rgb(255, 255, 0);
+}
+h3
+{
+    display:flex;
+}
+
+
+
+
